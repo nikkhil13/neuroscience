@@ -4,7 +4,7 @@ Recently, I have been absolutely fascinated by the field of Neuroscience. I try 
 
 The organ that houses the entire human consciousness and everything associated with it - fear, love, emotions, dreams, laughter etc. 
 
-This repository is a collection of my notes on Neuroscience - an attempt to answer "Why we feel what we feel?" neuro-scientifically.
+This repository is a collection of my notes on Neuroscience - an attempt to answer **_"Why we feel what we feel?"_** neuro-scientifically.
 
 I use an application called **Notability** to write handwritten notes. 
 
