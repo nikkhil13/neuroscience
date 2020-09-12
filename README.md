@@ -26,6 +26,7 @@ I use an application called **Notability** to write handwritten notes.
 6. [Memory](https://github.com/nikkhil13/neuroscience/blob/master/7.%20Neuroscience%20of%20Memory%20.pdf)
 7. [Dreams](https://github.com/nikkhil13/neuroscience/blob/master/8.%20How%20do%20dreams%20Work.pdf)
 8. [Hate - Intolerance](https://github.com/nikkhil13/neuroscience/blob/master/9.%20Why%20do%20we%20hate%20-%20Intolerance%20.pdf)
+9. [Marijuana](https://github.com/nikkhil13/neuroscience/blob/master/10.%20Neuroscience%20of%20Marijuana.pdf)
 
 
 
